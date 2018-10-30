@@ -1,24 +1,30 @@
-# README
+# 🙊The Gossip Project🙊
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 💾Présentation de l'application💾
 
-Things you may want to cover:
+Cette magnifique application contient un formulaire de création d'utilisateur avec différents helpers de rails qui sont sensés rendre la vie facile des développeurs.
 
-* Ruby version
+Voici le lien de l'application en prod sur heroku https://lovely-forms.herokuapp.com/user/new
 
-* System dependencies
+## 💽Comment utiliser le programme ? 💽
 
-* Configuration
+Clone le repo, puis entre les commandes suivantes pour préparer le programme
 
-* Database creation
+```
+cd lovely-forms
+bundle install
+rails db:migrate
+rails server
+rails console
+```
 
-* Database initialization
+## 🎉Création de:🎉
 
-* How to run the test suite
+* Formulaire de type HTML
+* Formulaire de type Form_tag (plus vénère)
+* Formulaire de type Form_for (encore plus vénère)
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🌈Team Caen🌈
 
-* Deployment instructions
-
-* ...
+* Rebecca Bossé
+* Charlotte Vaudour
