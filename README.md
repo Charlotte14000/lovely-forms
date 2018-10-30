@@ -1,4 +1,4 @@
-# 🙊The Gossip Project🙊
+# 🙊Pretty little forms🙊
 
 ## 💾Présentation de l'application💾
 
