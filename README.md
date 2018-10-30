@@ -28,3 +28,5 @@ rails console
 
 * Rebecca Bossé
 * Charlotte Vaudour
+
+![alt text](http://fr.web.img5.acsta.net/r_1280_720/newsv7/17/06/28/18/16/2397910.jpg)
